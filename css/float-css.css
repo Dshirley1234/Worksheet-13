@@ -1,0 +1,15 @@
+.textl {
+    text-align: left;
+    background-color: royalblue;
+}
+
+.textc {
+    text-align:center;
+    background-color: springgreen;
+}
+
+.textr {
+    text-align: right;
+    background-color: firebrick;
+    color:white;
+}
